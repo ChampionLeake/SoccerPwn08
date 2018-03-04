@@ -1,5 +1,5 @@
-// FS08USA_Patch
-// Custom checksum patcher for FIFA SOCCER 08 USA NDS
+// FS08USA/EUR_Patch
+// Custom checksum patcher for FIFA SOCCER 08 USA/EUR NDS
 
 #include <stdio.h>  //C I/O
 #include <malloc.h> //Memory Allocation
@@ -9,8 +9,8 @@
 
 int main(int argc, char *argv[])
 {
-	printf("               FS08USA_Patch\n");
-	printf("FIFA SOCCER 08 (USA) NDS Savegame Checksum Patcher\n\n");
+	printf("               FS08USA/EUR_Patch\n");
+	printf("FIFA SOCCER 08 (USA/EUR) NDS Savegame Checksum Patcher\n\n");
 
 	//Open Savegame in read mode
 	FILE *f = fopen(argv[1], "rb");
