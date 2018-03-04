@@ -12,7 +12,6 @@ A successful attempt to exploit the game US version of FIFA SOCCER 08 for the Ni
 Navigate to "My FIFA 08" then go to "My Profile", PWN'D
 ###
 ## Special thanks to:
-* jerbear64 (testing the exploits on retail for US/EUR users)
 * CTurt (Originally exploited the EUR version)
 ###
 ## Support:
